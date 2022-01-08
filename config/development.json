@@ -1,0 +1,15 @@
+{
+    "PORT": 8000,
+    "databaseSettings": {
+        "host": "host_address",
+        "user": "user_name",
+        "password": "password",
+        "database": "database_name"
+      },
+      "slaveDatabaseSettings": {
+        "host": "host_address",
+        "user": "user_name",
+        "password": "password",
+        "database": "database_name"
+      }
+}
